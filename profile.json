@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "login": "kyievdev",
+  "seed": "#2BB3C0",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Aliucord & More"
+      },
+      {
+        "icon": "code",
+        "label": "JSON · Batch (Windows)"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      },
+      {
+        "icon": "favorite",
+        "label": "Interested in learning new programming languages"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:json",
+            "label": "JSON"
+          },
+          {
+            "icon": "batch_prediction",
+            "label": "Windows Batch File"
+          },
+          {
+            "icon": "brand:githubpages",
+            "label": "Github Pages"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:webflow",
+            "label": "Webflow"
+          },
+          {
+            "icon": "brand:notepadplusplus",
+            "label": "Notepad ++"
+          },
+          {
+            "icon": "domain",
+            "label": "Opendomains"
+          },
+          {
+            "icon": "brand:githubpages",
+            "label": "Github Pages"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/kyiev.dev"
+      },
+      {
+        "icon": "brand:bluesky",
+        "url": "https://bsky.app/profile/kyievdev.bsky.social"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/kyievdev"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://kyiev.localplayer.dev",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/kyievdev?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
