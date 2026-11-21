@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/kyievdev/Foggy-Mountains"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-foggy-mountains-dark.svg"><img src="assets/project-foggy-mountains-light.svg" width="49%" alt="Foggy-Mountains"></picture></a>&nbsp;<a href="https://github.com/kyievdev/Android-Debloation-Script"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-android-debloation-script-dark.svg"><img src="assets/project-android-debloation-script-light.svg" width="49%" alt="Android-Debloation-Script"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
