@@ -63,7 +63,7 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:json",
+            "icon": "file_json",
             "label": "JSON"
           },
           {
@@ -92,7 +92,7 @@
             "label": "Notepad ++"
           },
           {
-            "icon": "domain",
+            "icon": "web_asset",
             "label": "Opendomains"
           },
           {
